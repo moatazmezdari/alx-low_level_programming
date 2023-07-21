@@ -27,4 +27,6 @@ int is_prime(long n);
 
 void print_number(int n);
 
+void not_even(int n);
+
 #endif
